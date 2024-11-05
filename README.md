@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jk.adarsh.2002@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/adarshjagadishkamini/adarshjagadishkamini/blob/main/Adarsh_Jagadish_Kamini_Resume.pdf](https://github.com/adarshjagadishkamini/adarshjagadishkamini/blob/main/Adarsh_Jagadish_Kamini_Resume.pdf)
+- 📄 Kindly check out my publications and patent as featured on my LinkedIn
 
 - ⚡ Fun fact **During the development of my Ocean Surface Cleaning Autonomous Robot (OSCAR), I jokingly called it the "Roomba of the Sea"! It wasn’t just about cleaning, it used advanced collision avoidance and path-planning algorithms, so OSCAR could smoothly dodge obstacles like a pro while keeping the water pristine.**
 
