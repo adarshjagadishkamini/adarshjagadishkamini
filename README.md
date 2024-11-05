@@ -1,7 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Adarsh Jagadish Kamini</h1>
 <h3 align="center">Patent holder and an Embedded Software Developer</h3>
-
 - 🔭 I’m currently working on **Vehicle tracking and diagnostics**
 
 - 🌱 I’m currently learning **Model-Based Design using MATLAB Simulink, Autonomous Systems and AI-driven Applications, mmWave Sensing Technology, Advanced Real-Time Operating Systems (Zephyr RTOS and FreeRTOS)**
