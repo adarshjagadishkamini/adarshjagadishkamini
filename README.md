@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Jagadish Kamini</h1>
-<h3 align="center">Patent holder and an Embedded Software Developer</h3>
+<h3 align="center">An Embedded Software Developer and Patent holder</h3>
 
 - 🔭 I’m currently working on **Evaluating the feasibility of Automotive Software Development using nix**
 
