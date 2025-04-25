@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Evaluating the feasibility of Automotive Software Development using nix**
 
-- 🌱 I’m currently learning **Model-Based Design using MATLAB Simulink, Autonomous Systems and AI-driven Applications, mmWave Sensing Technology, Advanced Real-Time Operating Systems (Zephyr RTOS and FreeRTOS)**
+- 🌱 I’m currently learning **Model-Based Design using MATLAB Simulink, Autonomous Systems and AI-driven Applications, mmWave Sensing Technology, Advanced Real-Time Operating Systems (Zephyr RTOS, QNX and FreeRTOS)**
 
 - 👯 I’m looking to collaborate on **AI-driven embedded solutions for industrial automation**
 
